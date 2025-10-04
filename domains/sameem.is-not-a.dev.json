@@ -1,0 +1,19 @@
+{
+  "description": "Personal subdomain for Sameem — used to access my self-hosted service.",
+  "domain": "is-not-a.dev",
+  "subdomain": "sameem",
+  "owner": {
+    "repo": "https://github.com/Sameem-baba/",
+    "email": "ssssameembaba@gmail.com"
+  },
+  "record": {
+    "A": [],
+    "AAAA": [],
+    "CNAME": "",
+    "MX": [],
+    "TXT": [],
+    "CAA": [],
+    "SRV": []
+  },
+  "proxied": false
+}
